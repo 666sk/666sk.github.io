@@ -18,5 +18,10 @@ Feel free to follow his [ig](https://www.instagram.com/tirionyy_ee/).
 He is Jay Z, an expert of COD19.
 He is going to Columbia University for pursuing a Master's Degree later this year.
 
+## Taolue Shen
+
+## Haoming
+
+
 
 
