@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. Let me introduce you my best homies at the University of Queensland!
 
-![Image of fast.ai logo](images/logo.png)
+
 ![Image of ly logo](images/Ly.png)
+Feel free to follow his [ig](https://www.instagram.com/tirionyy_ee/).
 
 ## This is a title
 
