@@ -7,3 +7,7 @@ I was born in China, and I have been staying in different cities during differen
 Please feel free to follow me on [LinkedIn](https://www.linkedin.com/in/kuang-sheng-10b556220/).
 
 
+<img src="images/SK1.png" alt="Ly logo" width="300" height="300">
+<img src="images/SK2.png" alt="Ly logo" width="300" height="300">
+<img src="images/SK3.png" alt="Ly logo" width="300" height="300">
+
