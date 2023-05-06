@@ -4,7 +4,7 @@ Hello and welcome to this blog. In this space, I will share my thoughts on vario
 ## Portfolios
 
 
-<img src="images/Ly.png" alt="Ly logo" width="300" height="300">
+<img src="images/cloud.jpeg" alt="cloud" width="300" height="300">
 
 
 Feel free to follow his [ig](https://www.instagram.com/tirionyy_ee/).
