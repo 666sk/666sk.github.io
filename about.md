@@ -7,6 +7,6 @@ I was born in China, and I have been staying in different cities during differen
 Please feel free to follow me on [LinkedIn](https://www.linkedin.com/in/kuang-sheng-10b556220/).
 
 
-<img src="images/SK1.JPG" alt="sk1 logo" width="500" height="600">
-<img src="images/SK3.JPG" alt="sk3 logo" width="500" height="600">
+<img src="images/SK1.JPG" alt="sk1 logo" width="500" height="700">
+<img src="images/SK3.JPG" alt="sk3 logo" width="500" height="700">
 
