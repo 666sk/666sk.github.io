@@ -8,5 +8,5 @@ Please feel free to follow me on [LinkedIn](https://www.linkedin.com/in/kuang-sh
 
 
 <img src="images/SK1.JPG" alt="sk1 logo" width="500" height="700">
-<img src="images/SK3.JPG" alt="sk3 logo" width="500" height="700">
+<img src="images/SK3.JPG" alt="sk3 logo" width="500" height="1100">
 
