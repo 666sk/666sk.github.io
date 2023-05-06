@@ -1,4 +1,4 @@
-Hello and welcome to this blog. Let me introduce you my best homies at the University of Queensland!
+Hello and welcome to this blog. In this space, I will share my thoughts on various topics, ranging from education to technology to lifestyle. Join me on this journey as we explore and learn together!
 
 
 ## Portfolios
