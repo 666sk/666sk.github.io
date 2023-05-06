@@ -10,7 +10,13 @@ He is Tirion and his Chinese name is You LU. He is a game player.
 Now that he is spending more and more time sitting in the library for a better GPA.
 
 <img src="/images/Ly.png" alt="Ly logo" width="300" height="300">
-![](/images/Ly.png "fast.ai's logo")
+
 
 Feel free to follow his [ig](https://www.instagram.com/tirionyy_ee/).
+
+## Jay Z
+He is Jay Z, an expert of COD19.
+He is going to Columbia University for pursuing a Master's Degree later this year.
+
+
 
